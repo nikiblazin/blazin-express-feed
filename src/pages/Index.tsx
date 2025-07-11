@@ -1,6 +1,6 @@
 
 import { Button } from "@/components/ui/button";
-import { PhoneMockup } from "@/components/PhoneMockup";
+import PhoneMockup from "@/components/PhoneMockup";
 import { DownloadButtons } from "@/components/DownloadButtons";
 import { ArrowDown, Heart } from "lucide-react";
 
